@@ -154,7 +154,7 @@ watermark==1.6.0
 wcwidth==0.1.7
 webargs==1.8.1
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.0.6
 xdiagnose==3.8.4.1
 xgboost==0.7.post4
