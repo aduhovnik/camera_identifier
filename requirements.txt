@@ -72,7 +72,7 @@ nydus==0.11.0
 oauthlib==1.0.3
 olefile==0.44
 onboard==1.2.0
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 padme==1.1.1
 pandas==0.22.0
 pandocfilters==1.4.2
