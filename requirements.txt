@@ -123,7 +123,7 @@ six==1.11.0
 SQLAlchemy==1.1.15
 system-service==0.3
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.7.2
 termcolor==1.1.0
 terminado==0.6
 testpath==0.3.1
